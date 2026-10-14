@@ -1,0 +1,9 @@
+node_modules
+dist
+*.local
+.vercel
+.netlify
+.wrangler
+npm-debug.log*
+.DS_Store
+Thumbs.db

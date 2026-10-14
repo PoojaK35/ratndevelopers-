@@ -1,0 +1,13 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+# Treat the root domain as canonical.
+[[redirects]]
+  from = "https://www.ratndevelopers.com/*"
+  to = "https://ratndevelopers.com/:splat"
+  status = 301
+  force = true

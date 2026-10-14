@@ -1,0 +1,16 @@
+OWNERDOMAIN=ratndevelopers.com
+
+# Liftoff Monetize
+# Replace the placeholder below with my real Liftoff Publisher/Seller ID
+#
+# HOW TO UPDATE THIS FILE:
+# 1. Sign in to your Liftoff Monetize (Vungle) publisher dashboard.
+# 2. Copy the exact app-ads.txt line or your Publisher/Seller ID shown there.
+# 3. Replace YOUR_LIFTOFF_PUBLISHER_ID in the line below with that ID.
+#    Keep "vungle.com", "DIRECT" and "c107d686becd2d77" exactly as they are,
+#    unless Liftoff gives you a different line.
+# 4. Redeploy the website and confirm the file is live at:
+#    https://ratndevelopers.com/app-ads.txt
+#
+# Lines starting with "#" are comments and are ignored by ad networks.
+vungle.com, YOUR_LIFTOFF_PUBLISHER_ID, DIRECT, c107d686becd2d77
